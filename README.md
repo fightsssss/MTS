@@ -4,6 +4,8 @@ Je précise qu'il a été modifié.
 
 # **AKA Chrome Bot**
 
+Le script est si connu que des personnes se sont permis d'en faire un **bot**
+
 ## Installation
 
 Veuillez installer les modules suivants:
