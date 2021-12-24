@@ -1,5 +1,5 @@
 # MTS
-Bot de Makrag que je leak !
+Bot de Makrag !
 Je précise qu'il a été modifié.
 
 # **AKA Chrome Bot**
